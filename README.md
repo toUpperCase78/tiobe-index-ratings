@@ -1,2 +1,27 @@
 # tiobe-index-ratings
-Index Ratings for Popular Programming Languages from TIOBE
+
+**Index Ratings for Popular Programming Languages from TIOBE**
+
+## Description
+
+TIOBE Index Rating (more formally, TIOBE Programming Community Index) is an indicator for measurement of the programming languages' popularity. It gets updated every month once (although the dates are not regular). 
+
+The ratings are based on the number of engineers world-wide, courses and 3rd party vendors. To calculate the ratings, 25 search engines (e.g. Google, Bing, Yahoo!, Baidu) are also used. In order to qualify a language, it must have its own Wikipedia entry; the explanations must be stated clearly for being a programming language. Furthermore, it should be "Turing complete" and have at least 5000 hits for "<language> programming" for Google.
+  
+According to the authorities, this index is NOT an indication for the best programming language. Rather, it is a helpful measurement to choose the language strategically for software development.
+
+You can visit the website for more information: https://www.tiobe.com/tiobe-index/
+
+## Datasets
+
+There are **two** types of datasets available: 
+
+The first one contains all the ratings for popular programming languages that settled in top 20, starting from June 2001. Surely, new lines will be inserted when a new index rating is published. Please note that the order of the programming languages which are the columns are based on the standings of September 2020. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
+
+The second one shows the ratings for top 20 programming languages that presented to the monthly index list. Currently, only September 2020 is available, but new ones will be placed as separate datasets.
+
+All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
+
+## Analyses
+
+**Stay tuned for data analyses of these ratings to gain insights!**
