@@ -16,9 +16,9 @@ You can visit the website for more information: https://www.tiobe.com/tiobe-inde
 
 There are **two** types of datasets available: 
 
-The first one contains all the ratings for popular programming languages that settled in top 20, starting from June 2001. Surely, new lines will be inserted when a new index rating is published. Please note that the order of the programming languages which are the columns are based on the standings of September 2020. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
+The first type contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines will be inserted when a new index rating is published. Please note that the initial ordering of the programming languages, which are the columns, are based on the standings of September 2020. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
 
-The second one shows the ratings for top 20 programming languages that presented to the monthly index list. Currently, September and October 2020 are available, but new ones will be added as separate datasets.
+The second type shows the ratings for top 20 programming languages that were presented to the monthly index list. Currently, September, October and November 2020 are available, but new ones will be added as separate datasets.
 
 All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
 
@@ -30,4 +30,6 @@ All rating values are carefully fetched by examining the graphical plots of all 
 
 **September 2020:** Initial release.
 
-**October 2020:** Added `Classic Visual Basic` and `PL/SQL` ratings; new dataset that stores individual ratings for top 20 in October 2020.
+**October 2020:** Added `Classic Visual Basic` and `PL/SQL` ratings; a new dataset that contains individual ratings for top 20 in October 2020.
+
+**November 2020:** Added `Delphi/Object Pascal` and `Transact-SQL` ratings; a new dataset that contains individual ratings for top 20 in November 2020.
