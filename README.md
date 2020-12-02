@@ -18,15 +18,15 @@ You can visit the website for more information: https://www.tiobe.com/tiobe-inde
 
 There are **two** types of datasets available: 
 
-The first type contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines will be inserted when a new index rating is published. Please note that the initial ordering of the programming languages, which are the columns, are based on the standings of September 2020. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
+The **first type** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines will be inserted when a new index rating is published. Please note that the initial ordering of the programming languages, which are the columns, are based on the standings of September 2020. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
 
-The second type shows the ratings for top 20 programming languages that were presented to the monthly index list. Currently, September, October and November 2020 are available, but new ones will be added as separate datasets.
+The **second type** shows the ratings for top 20 programming languages that were presented to the monthly index list. Currently, September, October and November 2020 are available, but new ones will be added as separate datasets.
 
 All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
 
 ## Analyses
 
-**Stay tuned for data analyses of these ratings to gain insights!**
+The analyses are now available for **November 2020**! Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to inspect.
 
 ## Changes
 
