@@ -26,7 +26,9 @@ All rating values are carefully fetched by examining the graphical plots of all 
 
 ## Analyses
 
-The analyses are now available for **November 2020**! Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to inspect.
+The analyses are now available for **November 2020**! 
+
+Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to inspect.
 
 ## Changes
 
