@@ -39,3 +39,5 @@ Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to ins
 **November 2020:** Added `Delphi/Object Pascal` and `Transact-SQL` ratings to all index ratings; a new dataset that contains individual ratings for top 20 in November 2020.
 
 **January 2021:** Added new datasets that contain individual ratings for top 20 in December 2020 (sorry for late upload) and January 2021. 
+
+**February 2021:** Added new dataset that contains individual ratings for top 20 in February 2021; updated dataset that holds all index ratings to include February 2021.
