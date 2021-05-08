@@ -45,3 +45,5 @@ Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to ins
 **March 2021:** Added new dataset that contains individual ratings for top 20 in March 2021; updated dataset that holds all index ratings to include March 2021.
 
 **April 2021:** Added `Fortran` ratings to all index ratings; a new dataset that contains individual ratings for top 20 in April 2021.
+
+**May 2021:** Added new dataset that contains individual ratings for top 20 in May 2021; updated dataset that stores all index ratings to include May 2021.
