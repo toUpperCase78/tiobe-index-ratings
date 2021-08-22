@@ -12,7 +12,7 @@ The ratings are based on the number of engineers world-wide, courses and 3rd par
   
 According to the authorities, this index is NOT an indication for the best programming language. Rather, it is a helpful measurement to choose the language strategically for software development.
 
-You can visit the website for more information: https://www.tiobe.com/tiobe-index/
+Visit the website for more information: https://www.tiobe.com/tiobe-index/
 
 ## Datasets
 
@@ -20,7 +20,7 @@ There are **two** types of datasets available:
 
 The **first type** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines will be inserted when a new index rating is published. Please note that the initial ordering of the programming languages, which are the columns, are based on the standings of September 2020. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
 
-The **second type** shows the ratings for top 20 programming languages that were presented to the monthly index list. Here, the ratings between **September 2020** and **April 2021** are available individually, but new ones will be added as separate datasets in monthly basis.
+The **second type** shows the ratings for top 20 programming languages that were presented to the monthly index list. Here, the ratings between **September 2020** and **August 2021** are available individually, but new ones will be added as separate datasets in monthly basis.
 
 All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
 
@@ -51,3 +51,5 @@ Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to ins
 **June 2021:** Added new dataset that contains individual ratings for top 20 in June 2021; updated dataset that stores all index ratings to include June 2021.
   
 **July 2021:** Added new dataset that contains individual ratings for top 20 in July 2021; also updated dataset that stores all index ratings to include July 2021.
+
+**August 2021:** Added `Prolog` ratings to all index ratings; also a new dataset that contains individual ratings for top 20 in August 2021.
