@@ -30,7 +30,7 @@ The analyses are now available for **November 2020**!
 
 Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to inspect.
 
-## Changes
+## Change Log
 
 **September 2020:** Initial release.
 
@@ -53,3 +53,7 @@ Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to ins
 **July 2021:** Added new dataset that contains individual ratings for top 20 in July 2021; also updated dataset that stores all index ratings to include July 2021.
 
 **August 2021:** Added `Prolog` ratings to all index ratings; also a new dataset that contains individual ratings for top 20 in August 2021.
+
+**September 2021:** Added new dataset that contains individual ratings for top 20 in September 2021; plus updated dataset that stores all index ratings to include September 2021.
+  
+**October 2021:** Add new dataset that contains individual ratings for top 20 in October 2021; and new entry for the dataset that stored all index ratings to include October 2021.
