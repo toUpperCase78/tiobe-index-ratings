@@ -18,7 +18,7 @@ Visit the website for more information: https://www.tiobe.com/tiobe-index/
 
 There are **two** types of datasets available: 
 
-The **first type** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines are inserted when a new index rating is published monthly. Other languages might be added later as inidividual columns once they are available in top 20 afterwards.
+The **first type** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines are inserted when a new index rating is published monthly. Other languages might be added later as inidividual columns once they've made to the top 20.
 
 The **second type** shows the ratings for top 20 programming languages that were presented to the monthly index list. Here, the ratings between **September 2020** and **November 2021** are available individually, and new ones will exist as separate datasets in monthly basis.
 
@@ -62,3 +62,4 @@ In this repo, these programming languages are being tracked right now:
 * `Transact-SQL` (since November 2020)
 * `Fortran` (since April 2021)
 * `Prolog` (since August 2021)
+* `Lua` (since March 2022)
