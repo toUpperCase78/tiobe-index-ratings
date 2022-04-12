@@ -26,15 +26,15 @@ All rating values are carefully fetched by examining the graphical plots of all 
 
 ## Analyses
 
-The analyses are now available for **November 2020**! 
+The first analyses are available for **November 2020**. 
 
 Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to inspect.
   
-_New analyses will be on the way near the end of 2021, so stay tuned!_
+_Newer analyses will be on the way in 2022, and still in my to-do list!_
 
 ## Languages
   
-In this repo, these programming languages are being tracked right now:
+In this repo, these programming languages are being tracked right now (starting from Spetember 2020):
   
 * `C`
 * `Java`
