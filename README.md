@@ -28,11 +28,9 @@ Furthermore, there exist sub-types in this repo: **Very Long Term History** whic
 
 ## Analyses
 
-Currently, one analysis is available: **November 2020**. 
+Currently, two analyses are available: **January 2023** & **November 2020**. 
 
-Click on the corresponding file (**Tiobe_Index_Ratings_(Nov2020).ipynb**) to inspect.
-  
-_Newer analyses will be on the way in 2023, and still in my to-do list!_
+Click on the corresponding files to inspect and see how things have been changed after two years: **Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
 
 ## Languages
   
