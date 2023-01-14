@@ -16,13 +16,15 @@ Visit the website for more information: https://www.tiobe.com/tiobe-index/
 
 ## Datasets
 
-There are **two** types of datasets available: 
+There are **two** main types of datasets available: 
 
 The **first type** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines are inserted when a new index rating is published monthly. Other languages might be added later as inidividual columns once they've made to the top 20.
 
 The **second type** shows the ratings for top 20 programming languages that were presented to the monthly index list. Here, the ratings between **September 2020** and **January 2023** are available individually, and new ones will exist as separate datasets in monthly basis. After some time, the lists from the previous years are grouped together in their belonging directories. 
 
 All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
+
+Furthermore, there exist sub-types in this repo: **Very Long Term History** which contains the rankings of popular programming languages according to the index as 5-year intervals (from current year down to 1988) and **Programming Language of the Year** that represents the list of programming languages entered the hall of fame by having the highest rise in ratings every year, since 2003.
 
 ## Analyses
 
