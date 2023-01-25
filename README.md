@@ -4,15 +4,15 @@
 
 ![TIOBE Logo](https://i.ibb.co/J2JCXXF/tiobe-logo.png)
 
-## Description
-
 TIOBE Index Rating (more formally, TIOBE Programming Community Index) is an indicator for measurement of the programming languages' popularity. It gets updated every month once (although the dates are not regular). 
 
-The ratings are based on the number of engineers world-wide, courses and 3rd party vendors. To calculate the ratings, 25 search engines (e.g. Google, Bing, Yahoo!, Baidu) are also used. In order to qualify a language, it must have its own Wikipedia entry; the explanations must be stated clearly for being a programming language. Furthermore, it should be "Turing complete" and have at least 5000 hits for "<language> programming" for Google.
+The ratings are based on the number of engineers world-wide, courses and 3rd party vendors. To calculate the ratings, 25 search engines (e.g. Google, Bing, Yahoo!, Baidu) are also used. In order to qualify a language, it must have its own Wikipedia entry; the explanations must be stated clearly for being a programming language. Furthermore, it should be "Turing complete" and have at least 5000 hits for "language programming" for Google.
   
 According to the authorities, this index is NOT an indication for the best programming language. Rather, it is a helpful measurement to choose the language strategically for software development.
 
-Visit the website for more information: https://www.tiobe.com/tiobe-index/
+## Source
+
+All the datasets presented here are taken from this web site. Click the link for more information: https://www.tiobe.com/tiobe-index/
 
 ## Datasets
 
@@ -28,13 +28,13 @@ Furthermore, there exist sub-types in this repo: **Very Long Term History** whic
 
 ## Analyses
 
-Currently, two analyses are available: **January 2023** & **November 2020**. 
+Currently, there are two analyeses available: **January 2023** & **November 2020**. 
 
-Click on the corresponding files to inspect and see how things have been changed after two years: **Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
+Click on the corresponding IPython files above to inspect and see how the ratings for many programming languages have been changed within two years: **Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
 
 ## Languages
   
-In this repo, these programming languages are being tracked right now (starting from Spetember 2020):
+In this repo, these programming languages are being tracked monthly (starting from September 2020):
   
 * `C`
 * `Java`
