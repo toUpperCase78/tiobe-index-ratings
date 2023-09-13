@@ -66,3 +66,4 @@ In this repo, these programming languages are being tracked monthly (starting fr
 * `Scratch` (since October 2022)
 * `COBOL` (since July 2023)
 * `Julia` (since August 2023)
+* `Kotlin` (since September 2023)
