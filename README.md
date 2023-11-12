@@ -2,7 +2,8 @@
 
 **Index Ratings for Popular Programming Languages from TIOBE**
 
-![TIOBE Logo](https://i.ibb.co/J2JCXXF/tiobe-logo.png)
+<!-- ![TIOBE Logo](https://i.ibb.co/J2JCXXF/tiobe-logo.png) -->
+![TIOBE Logo](tiobe_index_logo.png)
 
 TIOBE Index Rating (more formally, TIOBE Programming Community Index) is an indicator for measurement of the programming languages' popularity. It gets updated every month once (although the dates are not regular). 
 
