@@ -21,7 +21,7 @@ There are **two** main types of datasets available:
 
 **FIRST TYPE** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines are inserted when a new index rating is published monthly. Other languages might be added later as inidividual columns once they've made to the top 20.
 
-**SECOND TYPE** shows the ratings for top 20 programming languages that were presented to the monthly index list. Here, the ratings between **September 2020** and **July 2023** are available individually, and new ones will exist as separate datasets in monthly basis. After some time, the lists from the previous years are grouped together in their belonging directories. 
+**SECOND TYPE** shows the ratings for top 20 programming languages that were presented to the monthly index list, starting from **September 2020** up to the latest month individually. Naturally, new ones will exist as separate datasets in monthly basis. After some time, the lists from the previous years are grouped together in their belonging directories. 
 
 All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
 
