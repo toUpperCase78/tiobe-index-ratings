@@ -5,9 +5,9 @@
 <!-- ![TIOBE Logo](https://i.ibb.co/J2JCXXF/tiobe-logo.png) -->
 ![TIOBE Logo](tiobe_index_logo.png)
 
-TIOBE Index Rating (more formally, TIOBE Programming Community Index) is an indicator for measurement of the programming languages' popularity. It gets updated every month once (although the dates are not regular). 
+TIOBE Index Rating (more formally, TIOBE Programming Community Index) is an indicator for measurement of the programming languages' popularity. It gets updated once every month (although the dates are not regular). 
 
-The ratings are based on the number of engineers world-wide, courses and 3rd party vendors. To calculate the ratings, 25 search engines (e.g. Google, Bing, Yahoo!, Baidu) are also used. In order to qualify a language, it must have its own Wikipedia entry; the explanations must be stated clearly for being a programming language. Furthermore, it should be "Turing complete" and have at least 5000 hits for "language programming" for Google.
+The ratings are based on the number of talented engineers world-wide, courses and 3rd party vendors. To calculate the ratings, 25 search engines (e.g. Google, Bing, Yahoo!, Baidu) are also used. In order to qualify a language, it must have its own Wikipedia entry; the explanations must be stated clearly for being a programming language. Furthermore, it should be "Turing complete" and have at least 5000 hits for "language programming" for Google.
   
 According to the authorities, this index is NOT an indication for the best programming language. Rather, it is a helpful measurement to choose the language strategically for software development.
 
@@ -19,7 +19,7 @@ All the datasets presented here are taken from this web site. Click the link for
 
 There are **two** main types of datasets available: 
 
-**FIRST TYPE** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines are inserted when a new index rating is published monthly. Other languages might be added later as inidividual columns once they've made to the top 20.
+**FIRST TYPE** contains all the ratings for popular programming languages, starting from June 2001. Surely, new lines are inserted when a new index rating is published monthly. New languages might be added later as inidividual columns once they've made to the top 20.
 
 **SECOND TYPE** shows the ratings for top 20 programming languages that were presented to the monthly index list, starting from **September 2020** up to the latest month individually. Naturally, new ones will exist as separate datasets in monthly basis. After some time, the lists from the previous years are grouped together in their belonging directories. 
 
@@ -31,11 +31,13 @@ Furthermore, there exist sub-types in this repo: **Very Long Term History** whic
 
 Currently, there are two analyeses available: **January 2023** & **November 2020**. 
 
-Click on the corresponding IPython files above to inspect and see how the ratings for many programming languages have been changed within two years: **Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
+Click on the corresponding notebook file (.ipynb) above to inspect and see how the ratings for many programming languages have been changed in time: 
 
-## Languages
+**Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
+
+## Languages Being Tracked
   
-In this repo, these programming languages are being tracked monthly (starting from September 2020):
+In this repo, these programming languages (total of 31) are being tracked monthly (starting from September 2020):
   
 * `C`
 * `Java`
