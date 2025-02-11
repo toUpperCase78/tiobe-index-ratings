@@ -25,7 +25,7 @@ There are **two** main types of datasets available:
 
 All rating values are carefully fetched by examining the graphical plots of all aforementioned programming languages.
 
-Furthermore, there exist sub-types in this repo: **Very Long Term History** which contains the rankings of popular programming languages according to the index as 5-year intervals (from current year down to 1988) and **Programming Language of the Year** that represents the list of programming languages entered the hall of fame by having the highest rise in ratings every year, since 2003.
+Furthermore, there exist sub-types in this repo: **Very Long Term History** contains the rankings of popular programming languages according to the index as 5-year intervals (two versions for year 2023 and 2025, respectively) and **Programming Language of the Year** represents the list of programming languages entered the hall of fame by having the highest rise in ratings every year, since 2003.
 
 ## Analyses
 
@@ -72,6 +72,12 @@ In this repo, these programming languages (total of 31) are being tracked monthl
 * `Kotlin` (since September 2023)
 
 ## Headlines
+
+### February 2025: Fast, Faster, Fastest!
+
+Now that the world needs to crunch more and more numbers per second, and hardware is not evolving fast enough, speed of programs is getting important. Having said this, it is not surprising that the fast programming languages are gaining ground in the TIOBE Index. Programming language C++ climbed to position 2 recently, Go has become a steady top 10 player, and Rust is at an all-time high of 1.47%. Moreover, fast languages Mojo and Zig are knocking on the top 50 door at positions #51 and #56, respectively.
+
+You might wonder how Python, known as a slow language, is able to survive next to these race monsters. This is because there is another driver nowadays except for performance: how easy it is to learn a new programming language. Apart from crunching more numbers, the world also needs more programmers. Developing applications completely in AI is not possible yet. Hence, the demand for new programmers is still very high. Since the number of graduated software engineers is lower than is needed, all kind of non-software engineers are jumping on the programming bandwagon, and their favorite language is Python. This is why Python is here to stay. _(Paul Jensen - Chief Executive Officer)_
 
 ### January 2025: Python is TIOBE's programming language of the year 2024!
 
