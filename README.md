@@ -37,7 +37,7 @@ Click on the corresponding notebook file (.ipynb) above to inspect and see how t
 
 ## Languages Being Tracked
   
-In this repo, these programming languages (total of 31) are being tracked monthly (starting from September 2020):
+In this repo, these programming languages (total of 32) are being tracked monthly (starting from September 2020):
   
 * `C`
 * `Java`
@@ -70,8 +70,15 @@ In this repo, these programming languages (total of 31) are being tracked monthl
 * `COBOL` (since July 2023)
 * `Julia` (since August 2023)
 * `Kotlin` (since September 2023)
+* `Ada` (since March 2025)
 
 ## Headlines
+
+### March 2025: The dinosaurs strike back
+
+It is interesting to see that very old languages are sneaking into the TIOBE index top 20. Fortran and Delphi are competing for a top 10 position, whereas COBOL and this month's new entry Ada are a little bit further down the list. All of them show an uptrend. Why is this? Why aren't the new and promising languages shining instead?
+
+I think that it has to do with the many vital legacy systems that keep the world running. Most of them are developed with the aid of these dinosaur languages. Now that the last of the core developers of these systems are about to retire, companies avoid any risk and choose to keep the existing systems and even extend them rather than replacing them by newer systems based on more modern languages. Note that we name these languages dinosaurs, but they have evolved over time and are pretty up to date. All of them have new language definitions. Check out Fortran 2023, Delphi 12 (released in 2024), Ada 2023 and COBOL 2023. We might frown to see these languages being in the TIOBE index top 20, but they definitely serve a purpose and deserve credit. _(Paul Jensen - Chief Executive Officer)_
 
 ### February 2025: Fast, Faster, Fastest!
 
