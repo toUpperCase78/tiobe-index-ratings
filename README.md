@@ -37,7 +37,7 @@ Click on the corresponding notebook file (.ipynb) above to inspect and see how t
 
 ## Languages Being Tracked
   
-In this repo, these programming languages (total of 32) are being tracked monthly (starting from September 2020):
+In this repo, currently a total of 32 programming languages are being tracked monthly (starting from September 2020):
   
 * `C`
 * `Java`
@@ -73,6 +73,12 @@ In this repo, these programming languages (total of 32) are being tracked monthl
 * `Ada` (since March 2025)
 
 ## Headlines
+
+### April 2025: Former top 20 players Kotlin, Ruby and Swift have a hard time
+
+The programming languages Kotlin, Ruby and Swift all held very stable top 20 positions in the TIOBE index until recently. But now they seem to have lost traction and are likely to go out of fashion. Kotlin and Swift have the same reason why they are declining. They are both mainly used for one particular mobile platform, Android and iOS, respectively, whereas there are other sufficiently good languages and frameworks to develop cross platform nowadays. Yes, Swift can be used for Android development but it is pretty difficult. And Kotlin on iOS never really took off. Ruby is another story. For many years, Ruby has been competing with Python and Perl. While Perl was declining, Ruby stabilized. But now that Python has become the ligua franca in the programming world, there is not much room left for Ruby.
+
+Another interesting observation is that the programming language world is in a consolidation phase. The top 20 languages currently cover 83.56% of the total market. This is a very high number; it usually is around 75%. This means that the market is a bit defensive, preferring proven technology to trying out new technologies. _(Paul Jensen - Chief Executive Officer)_
 
 ### March 2025: The dinosaurs strike back
 
