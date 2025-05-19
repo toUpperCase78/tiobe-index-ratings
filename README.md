@@ -74,6 +74,10 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## Headlines
 
+### May 2025: Python rules the world
+
+Python's popularity increased with another whopping 2.2% last month to 25.35% in total. This 25.35% is the highest share a programming language ever had in the history of the TIOBE Index, except for Java in June 2001 (which was the first month of the TIOBE Index with much fewer languages being tracked) and October 2001. Python also broke another record: it is the first time a language has such a big lead over the rest, i.e. more than 15% difference if compared to number 2 C++. The only reason other languages still have a reason for existing is because of Python's low performance, and the fact that it is interpreted and thus prone to unexpected run-time errors. This means that safely-critical and/or real-time systems still have to rely on other languages, but in most other domains Python is slowly but surely finding its way to the top. _(Paul Jensen - Chief Executive Officer)_
+
 ### April 2025: Former top 20 players Kotlin, Ruby and Swift have a hard time
 
 The programming languages Kotlin, Ruby and Swift all held very stable top 20 positions in the TIOBE index until recently. But now they seem to have lost traction and are likely to go out of fashion. Kotlin and Swift have the same reason why they are declining. They are both mainly used for one particular mobile platform, Android and iOS, respectively, whereas there are other sufficiently good languages and frameworks to develop cross platform nowadays. Yes, Swift can be used for Android development but it is pretty difficult. And Kotlin on iOS never really took off. Ruby is another story. For many years, Ruby has been competing with Python and Perl. While Perl was declining, Ruby stabilized. But now that Python has become the ligua franca in the programming world, there is not much room left for Ruby.
