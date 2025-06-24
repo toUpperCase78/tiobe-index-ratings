@@ -74,6 +74,12 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## Headlines
 
+### June 2025: Where is SQL going?
+
+SQL has a remarkable history in the TIOBE index. When the TIOBE index started in 2001, SQL was one of the 20 languages that were tracked. It was a serious top 10 player at that time. In the beginning of 2004, somebody noted that SQL was not a programming language. After lots of debates, it was decided to take SQL from the list. It was in 2018 that somebody else pointed out to us that SQL is Turing complete, albeit in a tricky way. And if you are Turing complete, you are considered to be a programming language. Hence, as of that moment SQL was readded to the TIOBE index and, since database and SQL go hand in hand, SQL became a top 10 player again.
+
+Remarkably, SQL started dropping slowly recently. This month it is at position #12, which is its lowest position in the TIOBE index ever. SQL will remain the backbone and lingua franca of databases for decades to come. However, in the booming field of AI, where data is usually unstructured, NoSQL database are often a better fit. NoSQL (which uses data interchange formats such as JSON and XML) has become a serious threat for the well-defined but rather static SQL approach. NoSQL's popularity is comparable to the rise of dynamically typed languages such as Python if compared to well-defined statically typed programming languages such as C++ and Java. _(Paul Jensen - Chief Executive Officer)_
+
 ### May 2025: Python rules the world
 
 Python's popularity increased with another whopping 2.2% last month to 25.35% in total. This 25.35% is the highest share a programming language ever had in the history of the TIOBE Index, except for Java in June 2001 (which was the first month of the TIOBE Index with much fewer languages being tracked) and October 2001. Python also broke another record: it is the first time a language has such a big lead over the rest, i.e. more than 15% difference if compared to number 2 C++. The only reason other languages still have a reason for existing is because of Python's low performance, and the fact that it is interpreted and thus prone to unexpected run-time errors. This means that safely-critical and/or real-time systems still have to rely on other languages, but in most other domains Python is slowly but surely finding its way to the top. _(Paul Jensen - Chief Executive Officer)_
