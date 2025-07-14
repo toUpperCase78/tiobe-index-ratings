@@ -74,6 +74,10 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## Headlines
 
+### July 2025: Senior programming languages battling for a top 10 position
+
+The first 7 languages of the TIOBE Index have been the same for the last couple of years. This can't be said about the languages at positions 8 to 12. They change positions every month. It is a continuous battle between the golden oldies: Visual Basic, SQL, Fortran, Ada, Perl and Delphi. And every time you think one of them will stay in the top 10, it is replaced by another language. And more remarkably, other new languages are expected to enter the top 10 instead of these seniors. Where are Rust, Kotlin, Dart and Julia? Apparently, established languages are hot. But which one will win? Honestly, this is very hard to tell, but I would put my bets on Ada. With the ever-stronger demands on security, Ada is, as a system programming language in the safety-critical domain, likely the best survivor. _(Paul Jensen - Chief Executive Officer)_
+
 ### June 2025: Where is SQL going?
 
 SQL has a remarkable history in the TIOBE index. When the TIOBE index started in 2001, SQL was one of the 20 languages that were tracked. It was a serious top 10 player at that time. In the beginning of 2004, somebody noted that SQL was not a programming language. After lots of debates, it was decided to take SQL from the list. It was in 2018 that somebody else pointed out to us that SQL is Turing complete, albeit in a tricky way. And if you are Turing complete, you are considered to be a programming language. Hence, as of that moment SQL was readded to the TIOBE index and, since database and SQL go hand in hand, SQL became a top 10 player again.
