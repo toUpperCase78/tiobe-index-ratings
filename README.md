@@ -74,6 +74,10 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## Headlines
 
+### August 2025: AI code assistants boost Python even further
+
+Last month, Python reached the highest ranking a programming language ever had in the TIOBE Index. We thought Python couldn't grow any further, but AI code assistants let Python take yet another step forward. According to recent studies of Stanford University (Yegor Denisov-Blanch), AI code assistants such as Microsoft Copilot, Cursor or Google Gemini Code Assist are 20% more effective if used for popular programming languages. The reason for this is obvious: there is more code for these languages available to train the underlying models. The trend is visible in the TIOBE Index as well, where we see a consolidation of languages at the top. Why would you start to learn a new obscure language for which no AI assistance is available? This is the modern way of saying that you don't want to learn a new language that is hardly documented and/or has too few libraries that can help you. _(Paul Jensen - Chief Executive Officer)_
+
 ### July 2025: Senior programming languages battling for a top 10 position
 
 The first 7 languages of the TIOBE Index have been the same for the last couple of years. This can't be said about the languages at positions 8 to 12. They change positions every month. It is a continuous battle between the golden oldies: Visual Basic, SQL, Fortran, Ada, Perl and Delphi. And every time you think one of them will stay in the top 10, it is replaced by another language. And more remarkably, other new languages are expected to enter the top 10 instead of these seniors. Where are Rust, Kotlin, Dart and Julia? Apparently, established languages are hot. But which one will win? Honestly, this is very hard to tell, but I would put my bets on Ada. With the ever-stronger demands on security, Ada is, as a system programming language in the safety-critical domain, likely the best survivor. _(Paul Jensen - Chief Executive Officer)_
