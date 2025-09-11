@@ -74,6 +74,14 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## Headlines
 
+### September 2025: Perl is back in the top 10
+
+I have been asked a lot why Perl is gaining so much popularity recently. Exactly one year ago, Perl was at position 27 and now it suddenly pops up to position 10 again. Although Perl has been at position 3 in its heyday (March 2005), Perl's current resurgence is still remarkable and something to be discussed. The technical reason why Perl is rated this high is because of its huge number of books in Amazon. It has 4 times more books listed than for instance PHP, or 7 times more books than Rust. The underlying "real" reason for Perl's increase of popularity is unknown to me.
+
+The only possibility I can think of is that Perl 5 is not gradually considered to become the real Perl. Let me explain. Larry Wall announced a completely new Perl, Perl 6, around 2000. The implementation of this Perl 6 took decades (second system effect), resulting even in a rebranding of the language being called Raku. During these decades, the old development of Perl 5 stalled more or less, and as a result the Perl community was left with uncertainty. At the same time, a nice alternative, Python, matured, and many Perl programmers moved to Python. Now, 25 years later, Perl 6/Raku is at position 129 of the TIOBE Index, thus playing no role at all in the programming world. Perl 5 on the other hand is releasing more often recently, thus gaining attention.
+
+What is your take on Perl's surprising come back? Do you know a possible reason? Let me know! _(Paul Jensen - Chief Executive Officer)_
+
 ### August 2025: AI code assistants boost Python even further
 
 Last month, Python reached the highest ranking a programming language ever had in the TIOBE Index. We thought Python couldn't grow any further, but AI code assistants let Python take yet another step forward. According to recent studies of Stanford University (Yegor Denisov-Blanch), AI code assistants such as Microsoft Copilot, Cursor or Google Gemini Code Assist are 20% more effective if used for popular programming languages. The reason for this is obvious: there is more code for these languages available to train the underlying models. The trend is visible in the TIOBE Index as well, where we see a consolidation of languages at the top. Why would you start to learn a new obscure language for which no AI assistance is available? This is the modern way of saying that you don't want to learn a new language that is hardly documented and/or has too few libraries that can help you. _(Paul Jensen - Chief Executive Officer)_
