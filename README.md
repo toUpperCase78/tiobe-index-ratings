@@ -15,6 +15,10 @@ According to the authorities, this index is NOT an indication for the best progr
 
 All the datasets presented here are taken from this web site. Click the link for more information: https://www.tiobe.com/tiobe-index/
 
+## IMPORTANT!
+
+_I have no collaboration or contract with TIOBE company! I'm an individual data scientist who find these ratings data about many programming languages so valuable and that's why, I've been managing this repo for several years. As you can guess, new ratings are published every month, and collect them here for easier access and better interpretation. Hopefully, I can broadcast these information to enthusiast programmer audience._
+
 ## Datasets
 
 There are **two** main types of datasets available: 
@@ -73,6 +77,10 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 * `Ada` (since March 2025)
 
 ## Headlines
+
+### October 2025: The fierce battle for the second place in the TIOBE Index
+
+Ever since Python started to dominate the TIOBE index as of the end of 2023, runners up C, C++ and Java were involved in a heavy fight for second place. For more than a year now, the differences in TIOBE's rankings between these 3 languages are less than 1%. At some time, C took the lead, then C++ took over, and now C is back while Java always remained at close distance of the other two. This month, C is back at position 2, boosted by the adoption of its C23 version. But Java has released version 25 and C++ is busy with version C++26. Hence, it is unclear what language is going to win. All 3 languages have their merits to stay in competition: C being simple and superfast, C++ being fast and fit for large embedded systems and Java being suitable for large business applications. Note that C# is also getting closer to these 3 runners up. The 4% distance between C# and C, C++ and Java at the beginning of this year is now reduced to only 1.4%. Keep your seat belts fastened!  _(Paul Jensen - Chief Executive Officer)_
 
 ### September 2025: Perl is back in the top 10
 
