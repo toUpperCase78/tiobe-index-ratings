@@ -17,7 +17,7 @@ All the datasets presented here are taken from this web site. Click the link for
 
 ## IMPORTANT!
 
-_I have no collaboration or contract with TIOBE company! I'm an individual data scientist who find these ratings data about many programming languages so valuable and that's why, I've been managing this repo for several years. As you can guess, new ratings are published every month, and collect them here for easier access and better interpretation. Hopefully, I can broadcast these information to enthusiast programmer audience._
+_I have no collaboration or contract with TIOBE company! I'm an independent data scientist who find these ratings data about many programming languages so intriguing and that's why, I've been managing this repo for several years. As you can guess, new ratings are published every month, and collect them here for easier access and better interpretation. Hopefully, I can broadcast these information to enthusiast programmer audience._
 
 ## Datasets
 
@@ -77,6 +77,10 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 * `Ada` (since March 2025)
 
 ## Headlines
+
+### November 2025: Is C# going to surpass Java for the first time in history?
+
+Until recently, nobody could beat the growth figures of Python. But now, Python seems to have plateaued. Instead of Python, programming language C# is now the fastest rising language. If C# can keep this pace, it might even become the TIOBE programming language of the year 2025. How did C# achieve this? Java and C# are battling for a long time in the same areas. Right now it seems like C# has removed every reason why not to use C# instead of Java: it is cross platform nowadays, it is open source and it contains all new language features a developer wants. While the financial world is still dominated by Java, all other terrains show equal shares between Java and C#. Besides this, Microsoft is going strong and C# is still their most backed programming language. Interesting note: C# has never been higher than Java in the TIOBE index. Currently the difference between the two rivals is less than 1%. There are exciting times ahead of us. Is C# going to surpass Java for the first time in the TIOBE index history? _(Paul Jensen - Chief Executive Officer)_
 
 ### October 2025: The fierce battle for the second place in the TIOBE Index
 
