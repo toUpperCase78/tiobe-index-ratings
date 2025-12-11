@@ -78,6 +78,16 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## Headlines
 
+### December 2025: Programming language R is back in the top 10
+
+Programming language R is known for fitting statisticians and data scientists like a glove. As statistics and large-scale data visualization become increasingly important, R has regained popularity. This trend is, for instance, also reflected in the rise of Wolfram/Mathematica (another tool with similar capabilities) which re-enabled the top 50 this month.
+
+R is sometimes frowned upon by "traditional" software engineers due to its unconventional syntax and limited scalability for large production systems. But for domain experts, it remains a powerful and elegant tool. R continues to thrive at universities and in research-driven industries.
+
+In the recent past, R and Python were often framed as competitors, a contest Python ultimately won in terms of general adoption. Yet R has carved out a solid and enduring niche. It excels at rapid experimentation, statistical modelling, and exploratory data analysis. We have seen many TIOBE index top 10 entrants rising and falling. It will be interesting to see whether R can maintain its current position.
+
+Other interesting news: next month we will announce the TIOBE Programming Language of the Year 2025. At the moment, C# appears to be the strongest candidate for this title. _(Paul Jensen - Chief Executive Officer)_
+
 ### November 2025: Is C# going to surpass Java for the first time in history?
 
 Until recently, nobody could beat the growth figures of Python. But now, Python seems to have plateaued. Instead of Python, programming language C# is now the fastest rising language. If C# can keep this pace, it might even become the TIOBE programming language of the year 2025. How did C# achieve this? Java and C# are battling for a long time in the same areas. Right now it seems like C# has removed every reason why not to use C# instead of Java: it is cross platform nowadays, it is open source and it contains all new language features a developer wants. While the financial world is still dominated by Java, all other terrains show equal shares between Java and C#. Besides this, Microsoft is going strong and C# is still their most backed programming language. Interesting note: C# has never been higher than Java in the TIOBE index. Currently the difference between the two rivals is less than 1%. There are exciting times ahead of us. Is C# going to surpass Java for the first time in the TIOBE index history? _(Paul Jensen - Chief Executive Officer)_
