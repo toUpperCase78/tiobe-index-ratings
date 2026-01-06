@@ -76,7 +76,23 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 * `Kotlin` (since September 2023)
 * `Ada` (since March 2025)
 
-## Headlines
+## HEADLINES
+
+### January 2026: C# is programming language of the year 2025
+
+For the second time in three years, C# has been named Programming Language of the Year by the TIOBE Index. C# earned this distinction by achieving the largest-year-over-year increase in ranking. Over the years, the language has undergone fundamental changes. From a language-design perspective, C# has often been an early adopter of new trends among mainstream languages. At the same time, it successfully made two major paradigm shifts: from Windows-only to cross-platform, and from Microsoft-owned to open source. C# has consistently evolved at the right moment.
+
+For many years now, there has been a direct battle between Java and C# for dominance in the busines software market. I always assumed Java would evetually prevail, but after all this time the contest remains undecided. It is an open question whether Java - with its verbose, boilerplate-heavy style and Oracle ownership - can continue to keep C# at bay.
+
+There were also some interesting movements in the 2025 top 10. C and C++ swapped positions. Although C++ is evolving faster than ever, some of its more radical changes - such as the modules concept - have yet to see widespread industry adoption. Meanwhile, C remains simple, fast, and extremely well suited to the ever-growing market of small embedded systems. Even Rust has struggled to penetrate this space, despite reaching an all-time high of position #13 this month.
+
+So who were the other winners of 2025, besides C#? Perl made a surprising comeback, jumping from position #32 to #11 and re-entering the top 20. Another language returning to the top 10 is R, driven largely by continued growth in data science and statistical computing.
+
+Of course, where there are winners, there are also losers. Go appears to have permanently lost its space in the top 10 during 2025. The same seems true for Ruby, which fell out of the top 20 and is unlikely to return anytime soon.
+
+What can we expect from 2026? I have a long history of making incorrect predictions, but I suspect that TypeScript will finally break into the top 20. Additionally, Zig, which climbed from position #61 to #42 in 2025, looks like a strong candidate to enter the TIOBE top 30.
+
+What changes do you foresee in 2026? _(Paul Jensen - Chief Executive Officer)_
 
 ### December 2025: Programming language R is back in the top 10
 
