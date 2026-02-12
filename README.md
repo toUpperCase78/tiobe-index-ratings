@@ -78,6 +78,14 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### February 2026: Domain-Specific Languages Challenge Python's Lead
+
+Python is currently the most popular programming language worldwide, maintaining a lead of more than 10 percentage points over its closest competitors. In absolute terms, Python reached its peak popularity in July 2025 with a market share of 26.98%. Although it continues to dominate, its share has since decline to 21.81% this month.
+
+This shift suggests that several more specialized languages are gradually gaining ground at Python's expense, most notably R and Perl. R, a statistical programming language, has long been a direct competitor to Python in the field of data science. While Python clearly overtook R in recent years, R appears to be regaining momentum and has re-entered the TIOBE Index top 10 for several consecutive months.
+
+Om the scripting side, Perl has also returned to prominence. Once the undisputed leader in scripting, Perl declined after years of internal fragmentation and competition from newer languages. Recently, however, it has staged a comeback, reclaiming a position in the TIOBE top 10 since January 2018. _(Paul Jensen - Chief Executive Officer)_
+
 ### January 2026: C# is programming language of the year 2025
 
 For the second time in three years, C# has been named Programming Language of the Year by the TIOBE Index. C# earned this distinction by achieving the largest-year-over-year increase in ranking. Over the years, the language has undergone fundamental changes. From a language-design perspective, C# has often been an early adopter of new trends among mainstream languages. At the same time, it successfully made two major paradigm shifts: from Windows-only to cross-platform, and from Microsoft-owned to open source. C# has consistently evolved at the right moment.
