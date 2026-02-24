@@ -33,9 +33,9 @@ Furthermore, there exist sub-types in this repo: **Very Long Term History** cont
 
 ## Analyses
 
-Currently, there are two analyeses available: **January 2023** & **November 2020**. 
+There are total of three analyeses available: **February 2026**, **January 2023** & **November 2020**. 
 
-Click on the corresponding notebook file (.ipynb) above to inspect and see how the ratings for many programming languages have been changed in time: 
+You can click on the corresponding notebook file (.ipynb) to inspect and see how the ratings for many programming languages have been changed in time: 
 
 **Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
 
