@@ -33,11 +33,11 @@ Furthermore, there exist sub-types in this repo: **Very Long Term History** cont
 
 ## Analyses
 
-There are total of three analyeses available: **February 2026**, **January 2023** & **November 2020**. 
+**There are total of three analyeses available:** [February 2026](https://github.com/toUpperCase78/tiobe-index-ratings/blob/master/Tiobe_Index_Ratings_Analysis_(Feb2026).ipynb), 
+[January 2023](https://github.com/toUpperCase78/tiobe-index-ratings/blob/master/Tiobe_Index_Ratings_Analysis_(Jan2023).ipynb) & 
+[November 2020](https://github.com/toUpperCase78/tiobe-index-ratings/blob/master/Tiobe_Index_Ratings_Analysis_(Nov2020).ipynb). 
 
 You can click on the corresponding notebook file (.ipynb) to inspect and see how the ratings for many programming languages have been changed in time: 
-
-**Tiobe_Index_Ratings_(Jan2023).ipynb** or **Tiobe_Index_Ratings_(Nov2020).ipynb**.
 
 ## Languages Being Tracked
   
