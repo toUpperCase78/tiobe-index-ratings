@@ -78,6 +78,14 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### March 2026: Why the TIOBE index still relies on search engines
+
+Since February is a short month and mot much happened in the TIOBE index, it is a good time to address a meta question about the index itself. This question has come up several times recently: why is the TIOBE index still based on search engine hits? Wouldn't it be better nowadays to ask LLMs which programming languages are the most popular?
+
+The answer is no. The TIOBE Index measures how many Internet pages exist for a particular programming language. LLMs ultimately rely on the same sources - they are trained on and analyze these very same web pages. Therefore, in essence, there is no real difference.
+
+Did nothing at all happen in the TIOBE index last month? Not entirely. SQL and R swapped places in the top 10. In addition, Swift reentered the top 20 at the expense of Kotlin. Further down the index, Ruby is close to dropping out of the top 30.
+
 ### February 2026: Domain-Specific Languages Challenge Python's Lead
 
 Python is currently the most popular programming language worldwide, maintaining a lead of more than 10 percentage points over its closest competitors. In absolute terms, Python reached its peak popularity in July 2025 with a market share of 26.98%. Although it continues to dominate, its share has since decline to 21.81% this month.
