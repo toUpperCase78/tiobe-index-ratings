@@ -86,7 +86,7 @@ Since then, Rust has steadily improved its ranking, even reaching its highest po
 
 One possible explanation is that, despite its ability to produce highly efficient and safe code, Rust remains difficult to learn for non-expert programmers. While specialists in performance-critical domains are willing to invest in mastering the language, broader mainstream adoption appears more challenging.
 
-As a result, Rust's growth in popularity seems to be leveling off, and a top 10 position now appears more distant than before.
+As a result, Rust's growth in popularity seems to be leveling off, and a top 10 position now appears more distant than before. _(Paul Jensen - Chief Executive Officer)_
 
 ### March 2026: Why the TIOBE index still relies on search engines
 
@@ -94,7 +94,7 @@ Since February is a short month and mot much happened in the TIOBE index, it is 
 
 The answer is no. The TIOBE Index measures how many Internet pages exist for a particular programming language. LLMs ultimately rely on the same sources - they are trained on and analyze these very same web pages. Therefore, in essence, there is no real difference.
 
-Did nothing at all happen in the TIOBE index last month? Not entirely. SQL and R swapped places in the top 10. In addition, Swift reentered the top 20 at the expense of Kotlin. Further down the index, Ruby is close to dropping out of the top 30.
+Did nothing at all happen in the TIOBE index last month? Not entirely. SQL and R swapped places in the top 10. In addition, Swift reentered the top 20 at the expense of Kotlin. Further down the index, Ruby is close to dropping out of the top 30. _(Paul Jensen - Chief Executive Officer)_
 
 ### February 2026: Domain-Specific Languages Challenge Python's Lead
 
