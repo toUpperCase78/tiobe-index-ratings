@@ -78,6 +78,16 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### April 2026: Rust's rise shows signs of slowing
+
+Rust is the youngest language in the TIOBE index top 20. If first entered the top 20 in June 2020 and was widely expected to break into the top 10, positioning itself as a strong competitor to C and C++. That was nearly six years ago.
+
+Since then, Rust has steadily improved its ranking, even reaching its highest position ever (#13) at the beginning of this year. However, just three months later, it has dropped back to position #16. This suggests that Rust's adoption rate may be plateauing.
+
+One possible explanation is that, despite its ability to produce highly efficient and safe code, Rust remains difficult to learn for non-expert programmers. While specialists in performance-critical domains are willing to invest in mastering the language, broader mainstream adoption appears more challenging.
+
+As a result, Rust's growth in popularity seems to be leveling off, and a top 10 position now appears more distant than before.
+
 ### March 2026: Why the TIOBE index still relies on search engines
 
 Since February is a short month and mot much happened in the TIOBE index, it is a good time to address a meta question about the index itself. This question has come up several times recently: why is the TIOBE index still based on search engine hits? Wouldn't it be better nowadays to ask LLMs which programming languages are the most popular?
