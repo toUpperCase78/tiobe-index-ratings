@@ -78,6 +78,28 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### May 2026: Statistical Programming Language Market Undergoing Major Consolidation
+
+This month, the programming language R matched its all-time high by reaching position #8 in the TIOBE index once again. This is not a coincidence. The statistical programming language market is clearly undergoing a major consolidation. The biggest winners are Python and R, while many long-established alternatives continue to lose momentum. The era in which the statistical computing landscape was fragmented across many niche languages and platforms appears to ve coming to an end.
+
+Several established players are steadily declining:
+
+* MATLAB is close to dropping out of the TIOBE top 20.
+* SAS is about to leave the top 30 for the first time since the TIOBE index began.
+* Wolfram/Mathematica remains well below its historical peak and is losing further ground.
+* SPSS dropped out of the top 100 last month.
+* S is also close to leaving the top 100.
+* Stata currently sits at position #124.
+
+Meanwhile, the newer statistical language Julia has struggled for years to establish itself as a stable top-30 language despite strong technical merits and growing academic interest. Looking ahead, Stan is expected to debut in the TIOBE index next month, reflecting the growing importance of probabilistic programming and Bayesian statistics.
+
+In practice, today's statistical programming market increasingly revolves around just two dominant ecosystems:
+
+* Python dominates industry, machine learning, AI, and production systems.
+* R remains the leading environment in academia, research, epidemiology, and advanced statistical analysis.
+
+Elsewhere in the index, Java and C++ swapped positions this month. Java gained momentum following the successful release of Java 26. Another notable riser is Zig, which is approaching the TIOBE top 30 for the first time. Zig's growing popularity appears to be driven by its rare combination of low-level performance straightforward tooling, and relative ease of use compared to traditional systems programming languages. _(Paul Jansen - Chief Executive Officer)_
+
 ### April 2026: Rust's rise shows signs of slowing
 
 Rust is the youngest language in the TIOBE index top 20. If first entered the top 20 in June 2020 and was widely expected to break into the top 10, positioning itself as a strong competitor to C and C++. That was nearly six years ago.
@@ -86,7 +108,7 @@ Since then, Rust has steadily improved its ranking, even reaching its highest po
 
 One possible explanation is that, despite its ability to produce highly efficient and safe code, Rust remains difficult to learn for non-expert programmers. While specialists in performance-critical domains are willing to invest in mastering the language, broader mainstream adoption appears more challenging.
 
-As a result, Rust's growth in popularity seems to be leveling off, and a top 10 position now appears more distant than before. _(Paul Jensen - Chief Executive Officer)_
+As a result, Rust's growth in popularity seems to be leveling off, and a top 10 position now appears more distant than before. _(Paul Jansen - Chief Executive Officer)_
 
 ### March 2026: Why the TIOBE index still relies on search engines
 
@@ -94,7 +116,7 @@ Since February is a short month and mot much happened in the TIOBE index, it is 
 
 The answer is no. The TIOBE Index measures how many Internet pages exist for a particular programming language. LLMs ultimately rely on the same sources - they are trained on and analyze these very same web pages. Therefore, in essence, there is no real difference.
 
-Did nothing at all happen in the TIOBE index last month? Not entirely. SQL and R swapped places in the top 10. In addition, Swift reentered the top 20 at the expense of Kotlin. Further down the index, Ruby is close to dropping out of the top 30. _(Paul Jensen - Chief Executive Officer)_
+Did nothing at all happen in the TIOBE index last month? Not entirely. SQL and R swapped places in the top 10. In addition, Swift reentered the top 20 at the expense of Kotlin. Further down the index, Ruby is close to dropping out of the top 30. _(Paul Jansen - Chief Executive Officer)_
 
 ### February 2026: Domain-Specific Languages Challenge Python's Lead
 
@@ -102,7 +124,7 @@ Python is currently the most popular programming language worldwide, maintaining
 
 This shift suggests that several more specialized languages are gradually gaining ground at Python's expense, most notably R and Perl. R, a statistical programming language, has long been a direct competitor to Python in the field of data science. While Python clearly overtook R in recent years, R appears to be regaining momentum and has re-entered the TIOBE Index top 10 for several consecutive months.
 
-Om the scripting side, Perl has also returned to prominence. Once the undisputed leader in scripting, Perl declined after years of internal fragmentation and competition from newer languages. Recently, however, it has staged a comeback, reclaiming a position in the TIOBE top 10 since January 2018. _(Paul Jensen - Chief Executive Officer)_
+Om the scripting side, Perl has also returned to prominence. Once the undisputed leader in scripting, Perl declined after years of internal fragmentation and competition from newer languages. Recently, however, it has staged a comeback, reclaiming a position in the TIOBE top 10 since January 2018. _(Paul Jansen - Chief Executive Officer)_
 
 ### January 2026: C# is programming language of the year 2025
 
@@ -118,7 +140,7 @@ Of course, where there are winners, there are also losers. Go appears to have pe
 
 What can we expect from 2026? I have a long history of making incorrect predictions, but I suspect that TypeScript will finally break into the top 20. Additionally, Zig, which climbed from position #61 to #42 in 2025, looks like a strong candidate to enter the TIOBE top 30.
 
-What changes do you foresee in 2026? _(Paul Jensen - Chief Executive Officer)_
+What changes do you foresee in 2026? _(Paul Jansen - Chief Executive Officer)_
 
 ### December 2025: Programming language R is back in the top 10
 
@@ -128,15 +150,15 @@ R is sometimes frowned upon by "traditional" software engineers due to its uncon
 
 In the recent past, R and Python were often framed as competitors, a contest Python ultimately won in terms of general adoption. Yet R has carved out a solid and enduring niche. It excels at rapid experimentation, statistical modelling, and exploratory data analysis. We have seen many TIOBE index top 10 entrants rising and falling. It will be interesting to see whether R can maintain its current position.
 
-Other interesting news: next month we will announce the TIOBE Programming Language of the Year 2025. At the moment, C# appears to be the strongest candidate for this title. _(Paul Jensen - Chief Executive Officer)_
+Other interesting news: next month we will announce the TIOBE Programming Language of the Year 2025. At the moment, C# appears to be the strongest candidate for this title. _(Paul Jansen - Chief Executive Officer)_
 
 ### November 2025: Is C# going to surpass Java for the first time in history?
 
-Until recently, nobody could beat the growth figures of Python. But now, Python seems to have plateaued. Instead of Python, programming language C# is now the fastest rising language. If C# can keep this pace, it might even become the TIOBE programming language of the year 2025. How did C# achieve this? Java and C# are battling for a long time in the same areas. Right now it seems like C# has removed every reason why not to use C# instead of Java: it is cross platform nowadays, it is open source and it contains all new language features a developer wants. While the financial world is still dominated by Java, all other terrains show equal shares between Java and C#. Besides this, Microsoft is going strong and C# is still their most backed programming language. Interesting note: C# has never been higher than Java in the TIOBE index. Currently the difference between the two rivals is less than 1%. There are exciting times ahead of us. Is C# going to surpass Java for the first time in the TIOBE index history? _(Paul Jensen - Chief Executive Officer)_
+Until recently, nobody could beat the growth figures of Python. But now, Python seems to have plateaued. Instead of Python, programming language C# is now the fastest rising language. If C# can keep this pace, it might even become the TIOBE programming language of the year 2025. How did C# achieve this? Java and C# are battling for a long time in the same areas. Right now it seems like C# has removed every reason why not to use C# instead of Java: it is cross platform nowadays, it is open source and it contains all new language features a developer wants. While the financial world is still dominated by Java, all other terrains show equal shares between Java and C#. Besides this, Microsoft is going strong and C# is still their most backed programming language. Interesting note: C# has never been higher than Java in the TIOBE index. Currently the difference between the two rivals is less than 1%. There are exciting times ahead of us. Is C# going to surpass Java for the first time in the TIOBE index history? _(Paul Jansen - Chief Executive Officer)_
 
 ### October 2025: The fierce battle for the second place in the TIOBE Index
 
-Ever since Python started to dominate the TIOBE index as of the end of 2023, runners up C, C++ and Java were involved in a heavy fight for second place. For more than a year now, the differences in TIOBE's rankings between these 3 languages are less than 1%. At some time, C took the lead, then C++ took over, and now C is back while Java always remained at close distance of the other two. This month, C is back at position 2, boosted by the adoption of its C23 version. But Java has released version 25 and C++ is busy with version C++26. Hence, it is unclear what language is going to win. All 3 languages have their merits to stay in competition: C being simple and superfast, C++ being fast and fit for large embedded systems and Java being suitable for large business applications. Note that C# is also getting closer to these 3 runners up. The 4% distance between C# and C, C++ and Java at the beginning of this year is now reduced to only 1.4%. Keep your seat belts fastened!  _(Paul Jensen - Chief Executive Officer)_
+Ever since Python started to dominate the TIOBE index as of the end of 2023, runners up C, C++ and Java were involved in a heavy fight for second place. For more than a year now, the differences in TIOBE's rankings between these 3 languages are less than 1%. At some time, C took the lead, then C++ took over, and now C is back while Java always remained at close distance of the other two. This month, C is back at position 2, boosted by the adoption of its C23 version. But Java has released version 25 and C++ is busy with version C++26. Hence, it is unclear what language is going to win. All 3 languages have their merits to stay in competition: C being simple and superfast, C++ being fast and fit for large embedded systems and Java being suitable for large business applications. Note that C# is also getting closer to these 3 runners up. The 4% distance between C# and C, C++ and Java at the beginning of this year is now reduced to only 1.4%. Keep your seat belts fastened!  _(Paul Jansen - Chief Executive Officer)_
 
 ### September 2025: Perl is back in the top 10
 
@@ -144,43 +166,43 @@ I have been asked a lot why Perl is gaining so much popularity recently. Exactly
 
 The only possibility I can think of is that Perl 5 is not gradually considered to become the real Perl. Let me explain. Larry Wall announced a completely new Perl, Perl 6, around 2000. The implementation of this Perl 6 took decades (second system effect), resulting even in a rebranding of the language being called Raku. During these decades, the old development of Perl 5 stalled more or less, and as a result the Perl community was left with uncertainty. At the same time, a nice alternative, Python, matured, and many Perl programmers moved to Python. Now, 25 years later, Perl 6/Raku is at position 129 of the TIOBE Index, thus playing no role at all in the programming world. Perl 5 on the other hand is releasing more often recently, thus gaining attention.
 
-What is your take on Perl's surprising come back? Do you know a possible reason? Let me know! _(Paul Jensen - Chief Executive Officer)_
+What is your take on Perl's surprising come back? Do you know a possible reason? Let me know! _(Paul Jansen - Chief Executive Officer)_
 
 ### August 2025: AI code assistants boost Python even further
 
-Last month, Python reached the highest ranking a programming language ever had in the TIOBE Index. We thought Python couldn't grow any further, but AI code assistants let Python take yet another step forward. According to recent studies of Stanford University (Yegor Denisov-Blanch), AI code assistants such as Microsoft Copilot, Cursor or Google Gemini Code Assist are 20% more effective if used for popular programming languages. The reason for this is obvious: there is more code for these languages available to train the underlying models. The trend is visible in the TIOBE Index as well, where we see a consolidation of languages at the top. Why would you start to learn a new obscure language for which no AI assistance is available? This is the modern way of saying that you don't want to learn a new language that is hardly documented and/or has too few libraries that can help you. _(Paul Jensen - Chief Executive Officer)_
+Last month, Python reached the highest ranking a programming language ever had in the TIOBE Index. We thought Python couldn't grow any further, but AI code assistants let Python take yet another step forward. According to recent studies of Stanford University (Yegor Denisov-Blanch), AI code assistants such as Microsoft Copilot, Cursor or Google Gemini Code Assist are 20% more effective if used for popular programming languages. The reason for this is obvious: there is more code for these languages available to train the underlying models. The trend is visible in the TIOBE Index as well, where we see a consolidation of languages at the top. Why would you start to learn a new obscure language for which no AI assistance is available? This is the modern way of saying that you don't want to learn a new language that is hardly documented and/or has too few libraries that can help you. _(Paul Jansen - Chief Executive Officer)_
 
 ### July 2025: Senior programming languages battling for a top 10 position
 
-The first 7 languages of the TIOBE Index have been the same for the last couple of years. This can't be said about the languages at positions 8 to 12. They change positions every month. It is a continuous battle between the golden oldies: Visual Basic, SQL, Fortran, Ada, Perl and Delphi. And every time you think one of them will stay in the top 10, it is replaced by another language. And more remarkably, other new languages are expected to enter the top 10 instead of these seniors. Where are Rust, Kotlin, Dart and Julia? Apparently, established languages are hot. But which one will win? Honestly, this is very hard to tell, but I would put my bets on Ada. With the ever-stronger demands on security, Ada is, as a system programming language in the safety-critical domain, likely the best survivor. _(Paul Jensen - Chief Executive Officer)_
+The first 7 languages of the TIOBE Index have been the same for the last couple of years. This can't be said about the languages at positions 8 to 12. They change positions every month. It is a continuous battle between the golden oldies: Visual Basic, SQL, Fortran, Ada, Perl and Delphi. And every time you think one of them will stay in the top 10, it is replaced by another language. And more remarkably, other new languages are expected to enter the top 10 instead of these seniors. Where are Rust, Kotlin, Dart and Julia? Apparently, established languages are hot. But which one will win? Honestly, this is very hard to tell, but I would put my bets on Ada. With the ever-stronger demands on security, Ada is, as a system programming language in the safety-critical domain, likely the best survivor. _(Paul Jansen - Chief Executive Officer)_
 
 ### June 2025: Where is SQL going?
 
 SQL has a remarkable history in the TIOBE index. When the TIOBE index started in 2001, SQL was one of the 20 languages that were tracked. It was a serious top 10 player at that time. In the beginning of 2004, somebody noted that SQL was not a programming language. After lots of debates, it was decided to take SQL from the list. It was in 2018 that somebody else pointed out to us that SQL is Turing complete, albeit in a tricky way. And if you are Turing complete, you are considered to be a programming language. Hence, as of that moment SQL was readded to the TIOBE index and, since database and SQL go hand in hand, SQL became a top 10 player again.
 
-Remarkably, SQL started dropping slowly recently. This month it is at position #12, which is its lowest position in the TIOBE index ever. SQL will remain the backbone and lingua franca of databases for decades to come. However, in the booming field of AI, where data is usually unstructured, NoSQL database are often a better fit. NoSQL (which uses data interchange formats such as JSON and XML) has become a serious threat for the well-defined but rather static SQL approach. NoSQL's popularity is comparable to the rise of dynamically typed languages such as Python if compared to well-defined statically typed programming languages such as C++ and Java. _(Paul Jensen - Chief Executive Officer)_
+Remarkably, SQL started dropping slowly recently. This month it is at position #12, which is its lowest position in the TIOBE index ever. SQL will remain the backbone and lingua franca of databases for decades to come. However, in the booming field of AI, where data is usually unstructured, NoSQL database are often a better fit. NoSQL (which uses data interchange formats such as JSON and XML) has become a serious threat for the well-defined but rather static SQL approach. NoSQL's popularity is comparable to the rise of dynamically typed languages such as Python if compared to well-defined statically typed programming languages such as C++ and Java. _(Paul Jansen - Chief Executive Officer)_
 
 ### May 2025: Python rules the world
 
-Python's popularity increased with another whopping 2.2% last month to 25.35% in total. This 25.35% is the highest share a programming language ever had in the history of the TIOBE Index, except for Java in June 2001 (which was the first month of the TIOBE Index with much fewer languages being tracked) and October 2001. Python also broke another record: it is the first time a language has such a big lead over the rest, i.e. more than 15% difference if compared to number 2 C++. The only reason other languages still have a reason for existing is because of Python's low performance, and the fact that it is interpreted and thus prone to unexpected run-time errors. This means that safely-critical and/or real-time systems still have to rely on other languages, but in most other domains Python is slowly but surely finding its way to the top. _(Paul Jensen - Chief Executive Officer)_
+Python's popularity increased with another whopping 2.2% last month to 25.35% in total. This 25.35% is the highest share a programming language ever had in the history of the TIOBE Index, except for Java in June 2001 (which was the first month of the TIOBE Index with much fewer languages being tracked) and October 2001. Python also broke another record: it is the first time a language has such a big lead over the rest, i.e. more than 15% difference if compared to number 2 C++. The only reason other languages still have a reason for existing is because of Python's low performance, and the fact that it is interpreted and thus prone to unexpected run-time errors. This means that safely-critical and/or real-time systems still have to rely on other languages, but in most other domains Python is slowly but surely finding its way to the top. _(Paul Jansen - Chief Executive Officer)_
 
 ### April 2025: Former top 20 players Kotlin, Ruby and Swift have a hard time
 
 The programming languages Kotlin, Ruby and Swift all held very stable top 20 positions in the TIOBE index until recently. But now they seem to have lost traction and are likely to go out of fashion. Kotlin and Swift have the same reason why they are declining. They are both mainly used for one particular mobile platform, Android and iOS, respectively, whereas there are other sufficiently good languages and frameworks to develop cross platform nowadays. Yes, Swift can be used for Android development but it is pretty difficult. And Kotlin on iOS never really took off. Ruby is another story. For many years, Ruby has been competing with Python and Perl. While Perl was declining, Ruby stabilized. But now that Python has become the ligua franca in the programming world, there is not much room left for Ruby.
 
-Another interesting observation is that the programming language world is in a consolidation phase. The top 20 languages currently cover 83.56% of the total market. This is a very high number; it usually is around 75%. This means that the market is a bit defensive, preferring proven technology to trying out new technologies. _(Paul Jensen - Chief Executive Officer)_
+Another interesting observation is that the programming language world is in a consolidation phase. The top 20 languages currently cover 83.56% of the total market. This is a very high number; it usually is around 75%. This means that the market is a bit defensive, preferring proven technology to trying out new technologies. _(Paul Jansen - Chief Executive Officer)_
 
 ### March 2025: The dinosaurs strike back
 
 It is interesting to see that very old languages are sneaking into the TIOBE index top 20. Fortran and Delphi are competing for a top 10 position, whereas COBOL and this month's new entry Ada are a little bit further down the list. All of them show an uptrend. Why is this? Why aren't the new and promising languages shining instead?
 
-I think that it has to do with the many vital legacy systems that keep the world running. Most of them are developed with the aid of these dinosaur languages. Now that the last of the core developers of these systems are about to retire, companies avoid any risk and choose to keep the existing systems and even extend them rather than replacing them by newer systems based on more modern languages. Note that we name these languages dinosaurs, but they have evolved over time and are pretty up to date. All of them have new language definitions. Check out Fortran 2023, Delphi 12 (released in 2024), Ada 2023 and COBOL 2023. We might frown to see these languages being in the TIOBE index top 20, but they definitely serve a purpose and deserve credit. _(Paul Jensen - Chief Executive Officer)_
+I think that it has to do with the many vital legacy systems that keep the world running. Most of them are developed with the aid of these dinosaur languages. Now that the last of the core developers of these systems are about to retire, companies avoid any risk and choose to keep the existing systems and even extend them rather than replacing them by newer systems based on more modern languages. Note that we name these languages dinosaurs, but they have evolved over time and are pretty up to date. All of them have new language definitions. Check out Fortran 2023, Delphi 12 (released in 2024), Ada 2023 and COBOL 2023. We might frown to see these languages being in the TIOBE index top 20, but they definitely serve a purpose and deserve credit. _(Paul Jansen - Chief Executive Officer)_
 
 ### February 2025: Fast, Faster, Fastest!
 
 Now that the world needs to crunch more and more numbers per second, and hardware is not evolving fast enough, speed of programs is getting important. Having said this, it is not surprising that the fast programming languages are gaining ground in the TIOBE Index. Programming language C++ climbed to position 2 recently, Go has become a steady top 10 player, and Rust is at an all-time high of 1.47%. Moreover, fast languages Mojo and Zig are knocking on the top 50 door at positions #51 and #56, respectively.
 
-You might wonder how Python, known as a slow language, is able to survive next to these race monsters. This is because there is another driver nowadays except for performance: how easy it is to learn a new programming language. Apart from crunching more numbers, the world also needs more programmers. Developing applications completely in AI is not possible yet. Hence, the demand for new programmers is still very high. Since the number of graduated software engineers is lower than is needed, all kind of non-software engineers are jumping on the programming bandwagon, and their favorite language is Python. This is why Python is here to stay. _(Paul Jensen - Chief Executive Officer)_
+You might wonder how Python, known as a slow language, is able to survive next to these race monsters. This is because there is another driver nowadays except for performance: how easy it is to learn a new programming language. Apart from crunching more numbers, the world also needs more programmers. Developing applications completely in AI is not possible yet. Hence, the demand for new programmers is still very high. Since the number of graduated software engineers is lower than is needed, all kind of non-software engineers are jumping on the programming bandwagon, and their favorite language is Python. This is why Python is here to stay. _(Paul Jansen - Chief Executive Officer)_
 
 ### January 2025: Python is TIOBE's programming language of the year 2024!
 
@@ -190,4 +212,4 @@ Apart from this, two interesting things happened in the TIOBE Index top 10 in 20
 
 Lots of eyes were on Rust and Kotlin this year. Did they live up to their promises in 2024? Rust is still getting more popular. Despite the amazing speed of Rust programs, its steep learning curve will never make it become the lingua franca of the common programmer unfortunately. Kotlin, on the other hand, disappointed: it didn't break through and even lost (possibly permanent) its top 20 position in 2024.
 
-Further down the list we see two new promising languages: Rust's competitor Zig climbed from #149 to #61 in 2024, whereas Mojo, the faster Python, jumped from position #194 to #68. Especially Mojo, which was first released only 2 years ago, addresses exactly what is needed in the programming field. I have high hopes that it will get close to a top 20 position in 2025. _(Paul Jensen - Chief Executive Officer)_
+Further down the list we see two new promising languages: Rust's competitor Zig climbed from #149 to #61 in 2024, whereas Mojo, the faster Python, jumped from position #194 to #68. Especially Mojo, which was first released only 2 years ago, addresses exactly what is needed in the programming field. I have high hopes that it will get close to a top 20 position in 2025. _(Paul Jansen - Chief Executive Officer)_
