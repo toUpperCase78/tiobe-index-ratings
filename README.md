@@ -78,6 +78,18 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### July 2026: Rust breaks into the TIOBE Index top 10
+
+Last month, we reported that Rust was setting new records. This month, the story continues: Rust has entered the TIOBE Index top 10 for the first time in its history.
+
+Rust's growing popularity can largely be attributed to its strong focus on memory safety while still generating extremely fast code. It is widely regarded as a direct competitor to C and C++, both of which continue to struggle with the challenges of explicit memory management and are therefore often considered less safe. That said, the C and C++ communities are actively working on making their languages safer. Time will tell whether these efforts will pay off in time.
+
+This month's edition is also a milestone for the TIOBE Index itself. The index celebrates its 25th anniversary this month. Interestingly, three of today's top five languages, i.e. C, C++ and Java, were already among the leaders 25 years ago. Python emerged as a top-five language roughly a decade ago, while C# joined the top five about 15 years ago.
+
+Over the past 25 years, we have received both positive and negative feedback. Much of that feedback has helped shape the TIOBE Index into what it is today. One recurring and valid observation is that the index measures the popularity of programming languages, but it does not tell you which languages is the best choice for a particular project or application.
+
+To address this, we are introducing something new: the Programming Language Flowchart. This practical guide is designed to help developers select the most suitable programming language for their specific use case. It will be published on the TIOBE website next week. _(Paul Jansen - Chief Executive Officer)_
+
 ### May 2026: Statistical Programming Language Market Undergoing Major Consolidation
 
 This month, the programming language R matched its all-time high by reaching position #8 in the TIOBE index once again. This is not a coincidence. The statistical programming language market is clearly undergoing a major consolidation. The biggest winners are Python and R, while many long-established alternatives continue to lose momentum. The era in which the statistical computing landscape was fragmented across many niche languages and platforms appears to ve coming to an end.
