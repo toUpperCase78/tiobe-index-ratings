@@ -78,6 +78,14 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### August 2026: MATLAB's days seems to be numbered
+
+It is holidays season, even in the programming language world. We see some movement in the TIOBE Index, but most of the changes are further down the list. For instance, both OCaml and Zig have shown consistent growth over the past few months and may become new top-20 entries in the future.
+
+Another interesting development is MATLAB falling out of the top 20 for the first time in more than 10 yeras. Is this just a temporary dip, or is it the beginning of a more permanent decline? Personally, I believe MATLAB's days are numbered. One important reason is its licensing model. In a world where most programming languages are freely available, having to pay for a MATLAB license is becoming an increasingly significant disadvantage. Delphi is currently the only other programming language in the TIOBE top 20 that still requires a paid license.
+
+Another reason for MATLAB's gradual decline is that the language has not evolved as much as many other mainstream programming languages. While languages such as Python, C++, Rust, and even newer languages continue to introduce modern language features and programming paradigms, MATLAB can increasingly feel like a language from another era. _(Paul Jansen - Chief Executive Officer)_
+
 ### July 2026: Rust breaks into the TIOBE Index top 10
 
 Last month, we reported that Rust was setting new records. This month, the story continues: Rust has entered the TIOBE Index top 10 for the first time in its history.
