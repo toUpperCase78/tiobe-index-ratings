@@ -78,6 +78,14 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### September 2026: Is Julia going to re-enter the top 20?
+
+In the summer of 2023, Julia entered the top 20 for the first time in its history. This month, it is close to making it back into that exclusive group. Last month, I highlighted the decline of MATLAB, which had been a top-20 language for decades. This month, MATLAB drops another two positions. What I did not mention last month is that Julia is one of the languages that has taken a share of MATLAB's territory. MATLAB, Julia, Python and R all have strong roots in numerical computing, scientific computing, modeling, and data processing. Over the years, both Python and R have taken a significant share of MATLAB's market, but Julia has certainly claimed part of that pie as well.
+
+So, is Julia here to stay? That is a difficult question to answer. So far, Julia remains concentrated in relatively niche domains and has not yet managed to break through as a general-purpose programming language. It is fast, but there are faster languages. It is relatively easy to learn, but so are many alternatives. Julia has a strong and enthusiastic user community, although, somewhat surprisingly, it did not appear in last year's famous Stack Overflow survey of the most admired programming languages. _(Paul Jansen - Chief Executive Officer)_
+
+The top 10 remains remarkably stable, but there are some interesting developments around position 20. Perl and Ruby have now left the top 20, making room for two oldies: Ada and Objective-C. Both languages have been around for decades, but are showing renewed strength in this month's ranking.
+
 ### August 2026: MATLAB's days seems to be numbered
 
 It is holidays season, even in the programming language world. We see some movement in the TIOBE Index, but most of the changes are further down the list. For instance, both OCaml and Zig have shown consistent growth over the past few months and may become new top-20 entries in the future.
