@@ -78,13 +78,21 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### October 2026: Julia Returns to the TIOBE Top 20
+
+Julia is back in the TIOBE Index top 20, having last reached this milestone three years ago. Back then, it might have been dismissed as a passing hype, but its renewed presence suggests that its popularity may be more sustainable this time.
+
+Julia's growing popularity is largely driven by the demand for modern programming languages that combine high performance with ease of learning, particularly for numerical computing. Python offers an accessible, high-level approach to numerical computing, but performance can become a bottleneck. C++, on the other hand, delivers excellent performance but comes with a steeper learning curve and a lower level of abstraction. Julia aims to bridge this gap by combining the best of both worlds. Let's see whether Julia can maintain its position in the top 20 this time!
+
+Apart from Julia, two other languages are knocking on the door of the TIOBE top 20: Dart and OCaml. Dart jumps from #41 to #27 this month. Thanks to its popular UI toolkit Flutter, Dart has been hovering around the edge of the top 20 for quite some time. OCaml, on the other hand, might come as a surprise. It jumps from #38 to #26 this month, driven in part by its growing use in real-time trading systems and parsing technology. It is fascinating to see movement in the rankings after such a long period of relative stability. _(Paul Jansen - Chief Executive Officer)_
+
 ### September 2026: Is Julia going to re-enter the top 20?
 
 In the summer of 2023, Julia entered the top 20 for the first time in its history. This month, it is close to making it back into that exclusive group. Last month, I highlighted the decline of MATLAB, which had been a top-20 language for decades. This month, MATLAB drops another two positions. What I did not mention last month is that Julia is one of the languages that has taken a share of MATLAB's territory. MATLAB, Julia, Python and R all have strong roots in numerical computing, scientific computing, modeling, and data processing. Over the years, both Python and R have taken a significant share of MATLAB's market, but Julia has certainly claimed part of that pie as well.
 
 So, is Julia here to stay? That is a difficult question to answer. So far, Julia remains concentrated in relatively niche domains and has not yet managed to break through as a general-purpose programming language. It is fast, but there are faster languages. It is relatively easy to learn, but so are many alternatives. Julia has a strong and enthusiastic user community, although, somewhat surprisingly, it did not appear in last year's famous Stack Overflow survey of the most admired programming languages. _(Paul Jansen - Chief Executive Officer)_
 
-The top 10 remains remarkably stable, but there are some interesting developments around position 20. Perl and Ruby have now left the top 20, making room for two oldies: Ada and Objective-C. Both languages have been around for decades, but are showing renewed strength in this month's ranking.
+The top 10 remains remarkably stable, but there are some interesting developments around position 20. Perl and Ruby have now left the top 20, making room for two oldies: Ada and Objective-C. Both languages have been around for decades, but are showing renewed strength in this month's ranking. _(Paul Jansen - Chief Executive Officer)_
 
 ### August 2026: MATLAB's days seems to be numbered
 
