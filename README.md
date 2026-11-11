@@ -78,6 +78,14 @@ In this repo, currently a total of 32 programming languages are being tracked mo
 
 ## HEADLINES
 
+### November 2026: Dart surprisingly breaks into the top 20
+
+Dart has entered the TIOBE Index Top 20 for the first time in its history. Last month, Julia re-entered the Top 20, but it has already been replaced by Dart this month. In last month's publication, we mentioned two contenders for a Top 20 position: OCaml and Dart. Surprisingly, Dart has already made it this month.
+
+When talking about Dart, you cannot ignore Flutter, Google's framework for building cross-platform mobile applications. Flutter in the main driving force behind Dart's growing popularity. In fact, Flutter has become one of the major technologies for cross-platform mobile app development. The Dart language itself is not particularly unique, although it incorporates many modern programming language features. Its success is largely driven by the strength of the Flutter ecosystem and the convenience of developing applications for multiple platforms using a single codebase.
+
+Other interesting changes are worth mentioning. Rust has dropped out of the Top 10, losing its position to Go. Visual Basic has lost two places, making room for R and SQL in the Top 10. Further down the ranking, Assembly has re-entered the Top 20. _(Paul Jansen - Chief Executive Officer)_
+
 ### October 2026: Julia Returns to the TIOBE Top 20
 
 Julia is back in the TIOBE Index top 20, having last reached this milestone three years ago. Back then, it might have been dismissed as a passing hype, but its renewed presence suggests that its popularity may be more sustainable this time.
